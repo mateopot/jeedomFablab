@@ -1,0 +1,12 @@
+{
+  "name": "jeedomProject",
+  "displayName": "jeedomProject",
+  "expo": {
+    "name": "jeedomProject",
+    "slug": "jeedomProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
