@@ -13,15 +13,6 @@ export default StyleSheet.create({
     shadowRadius: 1.41,
     elevation: 2,
   },
-  fontTextRegular: {
-    fontFamily: 'Raleway-Regular'
-  },
-  fontTextMedium: {
-    fontFamily: 'Raleway-Medium'
-  },
-  fontTitleRegular: {
-    fontFamily: 'PlayfairDisplay-Regular'
-  },
   headerTitleText: {
     color: consts.BLACK
   },

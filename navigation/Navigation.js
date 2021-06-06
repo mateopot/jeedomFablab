@@ -31,7 +31,7 @@ const StackTabs = function MyTabs() {
                 component={Home}
                 options={{
                     tabBarIcon: ({ color, size }) => (
-                        <Icon name="ios-log-in" size={size} color={color} />
+                        <Icon name="ios-home" size={size} color={color} />
                     ),
                     gestureEnabled: false
                 }}
@@ -41,7 +41,7 @@ const StackTabs = function MyTabs() {
                 component={Settings}
                 options={{
                     tabBarIcon: ({ color, size }) => (
-                        <Icon name="ios-log-out" size={size} color={color} />
+                        <Icon name="ios-cog" size={size} color={color} />
                     )
                 }}
             />
